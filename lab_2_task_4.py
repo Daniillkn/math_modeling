@@ -13,3 +13,4 @@ for i in range(b-2):
   sum = 0
 for i in a:
   print(i, end = ' ')
+  
